@@ -1,0 +1,7 @@
+discum
+json
+datetime
+colorama
+keyboard
+pandas
+openpyxl
